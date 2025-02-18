@@ -7,8 +7,8 @@
     "descriptions": {
     "app_name": "Tech News Montor",
     "app_description": "A local technews monitor app",
-    "app_logo": "https://i.imgur.com/lZqvffp.png",
-    "app_url": "https://telex-fastapi-uptime-monitor.onrender.com",
+    "app_logo": "https://cdn.pixabay.com/photo/2017/03/19/20/19/ball-2157465_640.png",
+    "app_url": "https://localhost:7153/api/News",
     "background_color": "#fff"
     },
     "integration_category": "Monitoring & Logging",
