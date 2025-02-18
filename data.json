@@ -18,7 +18,7 @@
     ],
     "category": "Monitoring",
     "author": "Ikenna Umeh",
-    "website": "https://telex-fastapi-uptime-monitor.onrender.com",
+    "website": "https://localhost:7153/api/News",
     "settings": [
     {
     "label": "site-1",
@@ -40,6 +40,6 @@
     }
     ],
     "target_url": "",
-    "tick_url": "https://telex-fastapi-uptime-monitor.onrender.com/tick"
+    "tick_url": "https://localhost:7153/api/News"
     }
     }
