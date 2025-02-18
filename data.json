@@ -11,8 +11,9 @@
     "app_url": "https://telex-fastapi-uptime-monitor.onrender.com",
     "background_color": "#fff"
     },
-    "is_active": false,
+    "integration_category": "Monitoring & Logging",
     "integration_type": "interval",
+    "is_active": false,
     "key_features": [
     "- Gets 10 latest tech news"
     ],
