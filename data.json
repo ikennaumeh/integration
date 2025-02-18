@@ -8,18 +8,18 @@
     "app_name": "Tech News Monitor",
     "app_description": "A local technews monitor app",
     "app_logo": "https://cdn.pixabay.com/photo/2021/08/11/18/06/paladin-6539115_1280.png",
-    "app_url": "https://localhost:7153/api/News",
+    "app_url": "https://hng12-stage3-telex-integration.onrender.com/api/News",
     "background_color": "#fff"
     },
     "integration_category": "Monitoring & Logging",
     "integration_type": "interval",
     "is_active": false,
     "key_features": [
-    "- Gets 10 latest tech news"
+    "- Gets latest tech news"
     ],
     "category": "Monitoring",
     "author": "Ikenna Umeh",
-    "website": "https://localhost:7153/api/News",
+    "website": "https://hng12-stage3-telex-integration.onrender.com/api/News",
     "settings": [
     {
     "label": "site-1",
@@ -37,10 +37,10 @@
     "label": "interval",
     "type": "text",
     "required": true,
-    "default": "0 * * * *"
+    "default": "* * * * *"
     }
     ],
     "target_url": "",
-    "tick_url": "https://localhost:7153/api/News"
+    "tick_url": "https://hng12-stage3-telex-integration.onrender.com/api/News"
     }
     }
