@@ -41,6 +41,6 @@
     }
     ],
     "target_url": "",
-    "tick_url": "https://hng12-stage3-telex-integration.onrender.com/api/News"
+    "tick_url": "https://hng12-stage3-telex-integration.onrender.com/api/News/tick"
     }
     }
