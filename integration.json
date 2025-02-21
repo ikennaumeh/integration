@@ -37,7 +37,7 @@
     "label": "interval",
     "type": "text",
     "required": true,
-    "default": "* * * * *"
+    "default": "0 * * * *"
     }
     ],
     "target_url": "",
